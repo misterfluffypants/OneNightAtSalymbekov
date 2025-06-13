@@ -19,7 +19,7 @@ The animatronic is controlled by a Reinforcement Learning agent trained to find 
 
 ### Author
 
-\[Nurzhigit]
+\Nurzhigit
 Salymbekov University
 Introduction to AI, 2025
 

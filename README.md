@@ -17,12 +17,6 @@ The animatronic is controlled by a Reinforcement Learning agent trained to find 
 * Agent goal: reach the security room
 * Environment: custom Gym-compatible map
 
-### Author
-
-\Nurzhigit
-Salymbekov University
-Introduction to AI, 2025
-
 ### License
 
 ```text

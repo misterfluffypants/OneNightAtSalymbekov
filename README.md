@@ -16,10 +16,3 @@ The animatronic is controlled by a Reinforcement Learning agent trained to find 
 * Algorithm: Q-Learning
 * Agent goal: reach the security room
 * Environment: custom Gym-compatible map
-
-### License
-
-```text
-open-source
-project by Mister Fluffy Pants 
-```
